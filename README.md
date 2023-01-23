@@ -42,8 +42,7 @@ from malicious intent.
 Follow the official [**set up Git guide**](https://help.github.com/articles/set-up-git/) to get it working on your computer.
 
 Setup 
-[**ssh authentication**](https://help.github.com/articles/set-up-git/#connecting-over-ssh) 
-as it is more secure and means you _won't have to type in your password every time you push to GitHub.
+[**SSH authentication**](https://help.github.com/articles/set-up-git/#connecting-over-ssh) as it is more secure and means you won't have to type in your password every time you push to GitHub.
 
 > **Note**: This also means that when you _clone_ a repo, you'll need to use the **SSH clone URL**. 
 
@@ -58,7 +57,7 @@ https://postgresapp.com/
 https://www.pgadmin.org/
 
 ## Rectangle
-Rectangle is window manager/tiler for Mac, it gives you keyboard shortcuts for moving/organising your apps/windows.
+Rectangle is window manager/tiler for Mac, that has keyboard shortcuts for moving and organising your apps and windows.
 
 https://rectangleapp.com/
 
@@ -68,7 +67,9 @@ https://rectangleapp.com/
 
 ## Homebrew
 
-Install homebrew [brew.sh](https://brew.sh), the package manager that will download and manage several other open source software packages.
+https://brew.sh/
+
+Install homebrew, the package manager that will download and manage several other open source software packages.
 
 Install with the following command in your terminal:
 
@@ -78,46 +79,21 @@ Install with the following command in your terminal:
 
 ## `iTerm`
 
-The default terminal emulator on Mac is _OK_ for basic tasks... <br />
-We find that 
-[**`iTerm`**](https://www.iterm2.com/) 
-is _considerably_ better UX.
+https://iterm2.com/
+
+The default terminal emulator on Mac is _OK_ for basic tasks...However, [**`iTerm`**](https://www.iterm2.com/) has a _considerably_ better UX.
 e.g: **`iTerm`** allows screen splitting:
 
 ![iterm-screen-splitting](https://cloud.githubusercontent.com/assets/4185328/9831158/56d8cb90-5943-11e5-99ec-9fb1a5907f8a.png)
 
-As with Web Browsers, 
-it doesn't _hurt_ to have more than one Terminal 
-on your Mac. 
+As with Web Browsers, it doesn't _hurt_ to have more than one Terminal on your Mac. 
 
-Download: https://iterm2.com
 
 ### Themes
 
-There are _many_ themes 
-which you may have heard of 
-(like [Oh My Zsh](https://ohmyz.sh/)) 
-that aim to add some functionality 
-and shortcuts to your terminal. 
-**We _don't_ recommend** 
-you use any terminal themes 
-when you're starting out
-because they are a _distraction_
-from the content/code you are crafting.
+There are _many_ themes which can be used (such as [Oh My Zsh](https://ohmyz.sh/)) that aim at adding some extra functionality and shortcuts to your terminal. 
 
-However, once you know what you're doing in the terminal, 
-you can consider _enhancing_ your terminal with themes.
-There are _many_ to choose from:
 [iterm2colorschemes.com](https://iterm2colorschemes.com/)
-
-
-<br />
-
-# _Everyone_
-
-The following applies to all people 
-regardless of their operating system
-(Linux, Mac & Windows)
 
 ## Text Editor
 
@@ -128,9 +104,7 @@ At the time of writing,
 [Atom](https://atom.io/) 
 (Open Source, Electron/NodeJS based editor).
 
-There are a wide range of text editors 
-and integrated development environment (IDEs)
-available.
+There are a wide range of text editors and integrated development environment (IDEs) available.
 
 We tend to use:
 
@@ -141,22 +115,9 @@ but no Tracking from Microsoft.
 + VS Code: https://code.visualstudio.com as a backup or read-only viewer when we are working on multiple projects concurrently.
 + Sublime Text: [sublimetext.com](https://www.sublimetext.com) - fast and free-ish 
   (you will be reminded to purchase a license ... but the license is perpetual not annual!)
-  
-  
-
 
 ### Basic text editor setup
 
-**Set up** [**_soft tabs_**](https://opensourcehacker.com/2012/05/13/never-use-hard-tabs/) (indentation) <br />
-You can usually set this up in the _Preferences_ or _Settings_ 
-of your favourite text editor 
-so you never have to think about it again 
-(example below for [Atom](https://atom.io/)): 
-
-<img width="507" alt="atom-soft-tab-preferences-menu" src="https://cloud.githubusercontent.com/assets/4185328/9154618/a6598690-3e91-11e5-939b-2c03cf3c7ffc.png">     
-
-
-+ **Set up a guide (or line) to show on your page at the 80 character mark** so you know [when you go past 80 characters (or columns) on a single line](https://programmers.stackexchange.com/questions/604/is-the-80-character-limit-still-relevant-in-times-of-widescreen-monitors)
-  + Useful for _readability_, particularly in code snippets where you would otherwise end up with a scroll bar
-  + You should also be able to set this up in your favourite text editor's _Preferences_ (example below again on Atom editor - note, I also like to set up my editor to soft wrap at this line length so I can read other people's code more easily)    
-  <img width="511" alt="80-character-line-guide-setup" src="https://cloud.githubusercontent.com/assets/4185328/9826015/45796748-58cf-11e5-8a5d-db7350a8eb82.png">
+Prettier
+ESLint
+Plugins
