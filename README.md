@@ -18,13 +18,13 @@
 
 ## Web Browsers
 
-1. **`Safari`** 
-2. **`Google Chrome`**
-3. **`Google Chrome Canary`**
-4. **`Firefox`**
-5. **`Firefox Developer Edition`**
-6. **`Brave`**
-7. **`Microsoft Edge`**
+[Safari](https://support.apple.com/downloads/safari)
+[Google Chrome](https://www.google.com/intl/en_au/chrome/)
+[Google Chrome Canary](https://www.google.com/intl/en_au/chrome/canary/)
+[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+[Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+[Brave](https://brave.com/download/)
+[Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
 
 ## Git + GitHub
 
@@ -121,3 +121,6 @@ but no Tracking from Microsoft.
 Prettier
 ESLint
 Plugins
+
+
+Node
