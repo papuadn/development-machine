@@ -159,6 +159,9 @@ https://zoom.us/
 ## Homebrew
 https://brew.sh/
 
+### YVM
+https://yvm.js.org/docs/overview
+
 ## iTerm2
 https://iterm2.com/
 
@@ -172,6 +175,9 @@ https://iterm2.com/
 
 ## Node
 https://nodejs.org/en/download/
+
+### NVM
+https://github.com/nvm-sh/nvm
 
 ## Prettier
 https://github.com/prettier/prettier
