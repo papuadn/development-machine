@@ -163,6 +163,12 @@ https://slack.com/intl/en-au
 https://www.snapchat.com/
 - [tan feels](https://lens.snapchat.com/d1589f7256cd42cb8dcb91357d09b938) by Angelo DeNick
 
+- Download SnapCamera 1.21.0 (Mac):
+https://snap-camera.en.uptodown.com/mac/download
+
+- Install patch fix:
+https://github.com/jaku/SnapCameraPreservation
+
 ## Sourcetree
 https://www.sourcetreeapp.com/
 - Install Command Line Tools
