@@ -25,6 +25,7 @@
 - [Unity](#unity)
 - [VLC](#vlc)
 - [Visual Studio Code](#visual-studio-code)
+- [Warp](#warp)
 - [Xcode](#xcode)
 - [Zoom](#zoom)
 
@@ -120,13 +121,13 @@ https://localwp.com/
 
 ## Logitech
 ### Logi Options+
-https://www.logitech.com/en-au/software/logi-options-plus.html
+https://www.logitech.com/en-au/software/logi-options-plus.html/
 
 ### Logitech G HUB
-https://www.logitechg.com/en-au/innovation/g-hub.html
+https://www.logitechg.com/en-au/innovation/g-hub.html/
 
 ### LogiTune
-https://www.logitech.com/en-ca/video-collaboration/software/logi-tune-software.html
+https://www.logitech.com/en-ca/video-collaboration/software/logi-tune-software.html/
 
 ## Microsoft
 - Microsoft Edge
@@ -139,7 +140,7 @@ https://www.logitech.com/en-ca/video-collaboration/software/logi-tune-software.h
 https://nodejs.org/en/download/
 
 ### NVM
-https://github.com/nvm-sh/nvm
+https://github.com/nvm-sh/nvm/
 
 ## PGAdmin
 https://www.pgadmin.org/
@@ -148,26 +149,26 @@ https://www.pgadmin.org/
 https://postgresapp.com/
 
 ## Prettier
-https://github.com/prettier/prettier
+https://github.com/prettier/prettier/
 
 ## QuickTime Player
-https://support.apple.com/downloads/quicktime
+https://support.apple.com/downloads/quicktime/
 
 ## Rectangle
 https://rectangleapp.com/
 
 ## Slack
-https://slack.com/intl/en-au
+https://slack.com/intl/en-au/
 
 ## Snap Camera
 https://www.snapchat.com/
 - [tan feels](https://lens.snapchat.com/d1589f7256cd42cb8dcb91357d09b938) by Angelo DeNick
 
 - Download SnapCamera 1.21.0 (Mac):
-https://snap-camera.en.uptodown.com/mac/download
+https://snap-camera.en.uptodown.com/mac/download/
 
 - Install patch fix:
-https://github.com/jaku/SnapCameraPreservation
+https://github.com/jaku/SnapCameraPreservation/
 
 ## Sourcetree
 https://www.sourcetreeapp.com/
@@ -183,7 +184,10 @@ https://unity.com/download
 https://www.videolan.org/vlc/
 
 ## Visual Studio Code
-https://code.visualstudio.com/download
+https://code.visualstudio.com/download/
+
+## Warp
+https://www.warp.dev/
 
 ## Xcode
 https://developer.apple.com/xcode/
